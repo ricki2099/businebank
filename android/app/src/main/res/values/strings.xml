@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">businebank</string>
+    <string name="facebook_app_id">689051261801588</string>
+    <string name="fb_login_protocol_scheme">fb689051261801588</string>
+</resources>
